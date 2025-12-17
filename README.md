@@ -19,5 +19,5 @@
 
 ### 1. Клонировать или скачать
 ```bash
-git clone https://github.com/yourusername/qa-visiting-card.git
-cd qa-visiting-card
+git clone https://vitoriozinaidy.github.io/QAEngeenerVitoZininiJ
+cd QAEngeenerVitoZininiJ
